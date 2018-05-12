@@ -1,0 +1,34 @@
+_repo: History-of-the-Reign-of-Philip-the-Second-King-of-Spain-Vol.-3--13-And-Biographical--amp--Cri__34203
+_version: 0.1.0
+alternative_title: "History of the Reign of Philip II King of Spain, Vol. 3\r\nAnd\
+  \ Biographical & Critical Miscellanies"
+covers:
+- cover_type: archival
+  image_path: 34203-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Prescott, William Hickling
+    aliases:
+    - Prescott, William H. (William Hickling)
+    - Prescott, W. H. (William Hickling)
+    birthdate: 1796
+    deathdate: 1859
+    gutenberg_agent_id: '553'
+    url: http://www.gutenberg.org/2009/agents/553
+    wikipedia: http://en.wikipedia.org/wiki/William_H._Prescott
+description: Vols. I, II, III.
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philip II, King of Spain, 1527-1598'
+- !lcsh 'Spain -- History -- Philip II, 1556-1598'
+- !lcc 'DP'
+title: "History of the Reign of Philip the Second King of Spain, Vol. 3\r\nAnd Biographical\
+  \ & Critical Miscellanies"
+url: http://www.gutenberg.org/ebooks/34203
